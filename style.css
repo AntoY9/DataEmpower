@@ -112,6 +112,7 @@ body {
 }  
 
 #tools {  
+  top:5px;
   background-color: #d3cdcd;   
   padding: 30px;   
   max-width: 1200px; /* Adjust this to make #tools wider */  
